@@ -46,7 +46,6 @@ I’m a passionate BTech student at Amrita Vishwa Vidyapeetham, on a mission to 
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=data:image/svg+xml;base64,<SVG_PLACEHOLDER>&logoColor=white)
 
-> *(Note: Ollama doesn’t have a standard badge; you may use a custom SVG or icon.)*
 
 ---
 
