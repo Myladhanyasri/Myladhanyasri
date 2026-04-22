@@ -5,7 +5,7 @@ I’m a passionate BTech student at Amrita Vishwa Vidyapeetham, on a mission to 
 ---
 
 ### 👩‍💻 About Me
-- 🎓 2nd-year BTech CSE (AI) student
+- 🎓 3rd-year BTech CSE (AI) student
 - 💡 Passionate about solving real-world problems using AI, IoT, and full-stack development
 
 ---
